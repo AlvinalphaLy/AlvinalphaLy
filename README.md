@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Khanh Ly (Alvin Ly)</h1>
-<h3 align="center">I'm an ambitious and hardworking student with a strong passion for Computer Science and technology. With a passion to study and evolve with new technology.</h3>
+<h3 align="center">I'm an ambitious and hardworking student with a strong passion for Computer Science and technology.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
