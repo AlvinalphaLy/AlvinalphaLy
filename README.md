@@ -7,8 +7,7 @@ I'm an ambitious and hardworking student with a strong passion for Computer Scie
 
 ### Connect with me
 - LinkedIn: [Alvin Ly](https://www.linkedin.com/in/nkalvinly)
-- GitHub: [@AlvinalphaLy](https://github.com/AlvinalphaLy)
-
+- 
 ---
 
 ### Skills
